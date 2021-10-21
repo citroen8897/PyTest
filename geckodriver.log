@@ -543,3 +543,61 @@ console.warn: SearchSettings: "get: No settings file exists, new profile?" (new 
 JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
 1634833669568	Marionette	INFO	Stopped listening on port 33809
 JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1634838650744	geckodriver	INFO	Listening on 127.0.0.1:34321
+1634838650748	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofile0Gm6tD"
+1634838651462	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile0Gm6tD/search.json.mozlz4", (void 0)))
+1634838652805	Marionette	INFO	Listening on port 33985
+1634838652874	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1634838653023	Marionette	INFO	Stopped listening on port 33985
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1634838670617	geckodriver	INFO	Listening on 127.0.0.1:41335
+1634838670621	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofiledNWcBK"
+1634838671385	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofiledNWcBK/search.json.mozlz4", (void 0)))
+1634838672668	Marionette	INFO	Listening on port 46853
+1634838672748	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+1634838675168	Marionette	INFO	Stopped listening on port 46853
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1634838918429	geckodriver	INFO	Listening on 127.0.0.1:58645
+1634838918433	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofile8NT6JF"
+1634838919143	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile8NT6JF/search.json.mozlz4", (void 0)))
+1634838920313	Marionette	INFO	Listening on port 42397
+1634838920354	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1634838920499	Marionette	INFO	Stopped listening on port 42397
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1634838943202	geckodriver	INFO	Listening on 127.0.0.1:34211
+1634838943206	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileComk5b"
+1634838943925	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileComk5b/search.json.mozlz4", (void 0)))
+1634838945060	Marionette	INFO	Listening on port 34043
+1634838945127	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+1634838947601	Marionette	INFO	Stopped listening on port 34043
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1634839033233	geckodriver	INFO	Listening on 127.0.0.1:34585
+1634839033237	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileqaZBGH"
+1634839033953	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileqaZBGH/search.json.mozlz4", (void 0)))
+1634839035294	Marionette	INFO	Listening on port 45571
+1634839035359	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+1634839037803	Marionette	INFO	Stopped listening on port 45571
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1634839200557	geckodriver	INFO	Listening on 127.0.0.1:37747
+1634839200561	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileWUJs6Q"
+1634839201271	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileWUJs6Q/search.json.mozlz4", (void 0)))
+1634839202519	Marionette	INFO	Listening on port 40007
+1634839202609	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+1634839205119	Marionette	INFO	Stopped listening on port 40007
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
