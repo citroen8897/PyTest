@@ -25,9 +25,7 @@ class NewVisitorTest(unittest.TestCase):
 
         inputbox = self.browser.find_element_by_id('id_new_item')
         self.assertEqual(inputbox.get_attribute('placeholder'), 'Введите задачу')
-
         inputbox.send_keys('Купить летнюю резину')
-
         inputbox.send_keys(Keys.ENTER)
         time.sleep(1)
         self.check_for_row_in_list_table('1: Купить летнюю резину')
